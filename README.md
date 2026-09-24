@@ -1,7 +1,5 @@
 # Eric Felisberto Derencio
 
-Full Stack Developer · Angular × Spring Boot × Docker 🇧🇷
-
 Desenvolvedor full-stack explorando **IA e Model Context Protocol** para integração LLM em sistemas web.
 
 ---
@@ -10,7 +8,7 @@ Desenvolvedor full-stack explorando **IA e Model Context Protocol** para integra
 
 **Frontend:** Angular, TypeScript, HTML5, CSS3  
 **Backend:** Java, Spring Boot, REST APIs  
-**Dados:** PostgreSQL, Python, Pandas  
+**Dados:** PostgreSQL, Python 
 **DevOps:** Docker, Git  
 
 ---
