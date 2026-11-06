@@ -15,12 +15,6 @@ Desenvolvedor full-stack explorando **IA e Model Context Protocol** para integra
 
 ## Projetos
 
-**MechanicOS** — Mini-ERP desktop `Spring Boot` `Angular` `PostgreSQL` `Docker`
-
-**Mapa Interativo Uniara** — Plataforma geoespacial `Angular` `TypeScript` `Backend REST`
-
-**TCC — MCP & RAG** — Integração LLM em sistemas web `MCP` `RAG` `Python`
-
 ---
 
 ## Contato
